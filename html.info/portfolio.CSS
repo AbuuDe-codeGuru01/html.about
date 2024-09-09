@@ -1,0 +1,24 @@
+*{
+    margin: 4px;
+    box-sizing: border-box;
+    background-color: lightblue;
+}
+
+.summery img{
+    width: 20%;
+    border-radius: 10%;
+}
+
+span{
+    color: blue;
+}
+
+h1{
+    color:blue;
+}
+
+h2{
+    color: darkgreen;
+    
+    
+}
